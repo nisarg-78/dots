@@ -1,5 +1,8 @@
-window:
-  opacity: 1.0 
-  padding: { x: 7, y: 3 }
-font:
-  size: 12
+[window]
+decorations = "buttonless"
+dynamic_padding = false
+opacity = 0.9
+
+[window.padding]
+x = 5
+y = 5
