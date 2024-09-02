@@ -1,0 +1,11 @@
+[window]
+blur = true
+opacity = 0.85
+decorations = "Full"
+padding = { x = 5, y = 5 }
+
+[font]
+size = 12
+
+[keyboard]
+bindings = [{ key = "F11", action = "ToggleFullscreen" }]
